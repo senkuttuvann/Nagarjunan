@@ -1,0 +1,53 @@
+# Intellij
+
+.idea/
+
+*.iml
+
+.classpath
+
+.factorypath
+
+.project
+
+ 
+
+# VSCode
+
+.vscode/
+
+ 
+
+# Node
+
+node_modules/
+
+dist/
+
+ 
+
+# MS temp
+
+~$*
+
+ 
+
+# Vim backups
+
+*~
+
+ 
+
+# OS
+
+.DS_Store
+
+ 
+
+# Code coverage
+
+.nyc_output/
+
+coverage/
+
+lcov.info

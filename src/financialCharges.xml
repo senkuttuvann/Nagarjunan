@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<financialCharges>
+  <charge>
+    <guestName>John Doe</guestName>
+    <totalCharge>500</totalCharge>
+  </charge>
+  <charge>
+    <guestName>Jane Smith</guestName>
+    <totalCharge>600</totalCharge>
+  </charge>
+</financialCharges>

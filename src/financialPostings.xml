@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<financialPostings>
+  <charge>
+    <transactionType>Room Charge</transactionType>
+    <totalAmount>1000</totalAmount>
+  </charge>
+  <charge>
+    <transactionType>Dining Charge</transactionType>
+    <totalAmount>100</totalAmount>
+  </charge>
+</financialPostings>
